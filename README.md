@@ -6,6 +6,8 @@
 
 #### A guide covering the SQL programming language including the applications and tools that will make you a better and more efficient SQL developer.
 
+## Resources
+
 [SQL Tutorial by W3Schools](https://www.w3schools.com/sql/)
 
 [Udemy: A Beginner’s Guide to SQL: A MySQL Tutorial](https://blog.udemy.com/beginners-guide-to-sql/) 
@@ -15,6 +17,14 @@
 [OracleDB SQL Style Guide Basics](https://oracle.readthedocs.io/en/latest/sql/basics/style-guide.html)
 
 [Data Science with F#](https://fsharp.org/guides/data-science/)
+
+[Databases on AWS](https://aws.amazon.com/products/databases/)
+
+[Best Practices and Recommendations for SQL Server Clustering in AWS EC2.](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/aws-sql-clustering.html)
+
+[Connecting from Google Kubernetes Engine to a Cloud SQL instance.](https://cloud.google.com/sql/docs/mysql/connect-kubernetes-engine)
+
+[Educational Microsoft Azure SQL resources](https://docs.microsoft.com/en-us/sql/sql-server/educational-sql-resources?view=sql-server-ver15)
 
 ## Tools
 
