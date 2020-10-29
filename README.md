@@ -8,9 +8,17 @@
 
 ## Resources
 
+[SQL](https://en.wikipedia.org/wiki/SQL) is a standard language for storing, manipulating and retrieving data in relational databases.
+
 [SQL Tutorial by W3Schools](https://www.w3schools.com/sql/)
 
-[Udemy: A Beginner’s Guide to SQL: A MySQL Tutorial](https://blog.udemy.com/beginners-guide-to-sql/) 
+[Learn SQL Skills Online from Coursera courses](https://www.coursera.org/courses?query=sql)
+
+[SQL Courses Online from Udemy](https://www.udemy.com/topic/sql/) 
+
+[SQL Online Training Courses from LinkedIn Learning](https://www.linkedin.com/learning/topics/sql)
+
+[Learn SQL For Free from Codecademy](https://www.codecademy.com/learn/learn-sql)
 
 [GitLab's SQL Style Guide](https://about.gitlab.com/handbook/business-ops/data-team/platform/sql-style-guide/)
 
@@ -25,6 +33,8 @@
 [Connecting from Google Kubernetes Engine to a Cloud SQL instance.](https://cloud.google.com/sql/docs/mysql/connect-kubernetes-engine)
 
 [Educational Microsoft Azure SQL resources](https://docs.microsoft.com/en-us/sql/sql-server/educational-sql-resources?view=sql-server-ver15)
+
+[MySQL Certifications](https://www.mysql.com/certification/)
 
 ## Tools
 
