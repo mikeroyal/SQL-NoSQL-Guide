@@ -12,7 +12,7 @@
 
 [SQL Tutorial by W3Schools](https://www.w3schools.com/sql/)
 
-[Learn SQL Skills Online from Coursera courses](https://www.coursera.org/courses?query=sql)
+[Learn SQL Skills Online from Coursera](https://www.coursera.org/courses?query=sql)
 
 [SQL Courses Online from Udemy](https://www.udemy.com/topic/sql/) 
 
