@@ -24,8 +24,6 @@
 
 [OracleDB SQL Style Guide Basics](https://oracle.readthedocs.io/en/latest/sql/basics/style-guide.html)
 
-[Data Science with F#](https://fsharp.org/guides/data-science/)
-
 [Databases on AWS](https://aws.amazon.com/products/databases/)
 
 [Best Practices and Recommendations for SQL Server Clustering in AWS EC2.](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/aws-sql-clustering.html)
@@ -35,6 +33,10 @@
 [Educational Microsoft Azure SQL resources](https://docs.microsoft.com/en-us/sql/sql-server/educational-sql-resources?view=sql-server-ver15)
 
 [MySQL Certifications](https://www.mysql.com/certification/)
+
+[SQL vs. NoSQL Databases: What's the Difference?](https://www.ibm.com/cloud/blog/sql-vs-nosql)
+
+[What is NoSQL?](https://aws.amazon.com/nosql/)
 
 ## Tools
 
