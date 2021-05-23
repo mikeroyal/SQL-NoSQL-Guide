@@ -1,14 +1,24 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/93025402-886c3c80-f5b2-11ea-9ade-4c6c4afc8d3b.png">
+ <img src="https://user-images.githubusercontent.com/45159366/119279004-daec0700-bbdd-11eb-9662-b1fc86ec8448.png">
   <br />
-  SQL Guide
+  SQL/NoSQl DB Guide
 </h1>
 
-#### A guide covering the SQL programming language including the applications and tools that will make you a better and more efficient SQL developer.
+#### A guide covering the SQL/NoSQL including the applications and tools that will make you a better and more efficient SQL/NoSQL developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/119279002-da537080-bbdd-11eb-9d7a-44efb52f3506.png">
+  <br />
+</p>
+
+
+# SQL/NoSQL Learning Resources
 
 [SQL](https://en.wikipedia.org/wiki/SQL) is a standard language for storing, manipulating and retrieving data in relational databases.
+
+[NoSQL](https://www.ibm.com/cloud/blog/sql-vs-nosql) is a database that is interchangeably referred to as "nonrelational, or "non-SQL" to highlight that the database can handle huge volumes of rapidly changing, unstructured data in different ways than a relational (SQL-based) database with rows and tables.
 
 [SQL Tutorial by W3Schools](https://www.w3schools.com/sql/)
 
@@ -40,7 +50,7 @@
 
 [What is NoSQL?](https://aws.amazon.com/nosql/)
 
-## Tools
+# SQL/NoSQL Tools and Databases
 
 [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 
@@ -109,3 +119,12 @@
 [Lepide SQL Server](https://www.lepide.com/sql-storage-manager/) is an open source storage manager utility to analyse the performance of SQL Servers. It provides a complete overview of all configuration and permission changes being made to your SQL Server environment through an easy-to-use, graphical user interface.
 
 [Sequel Pro](https://sequelpro.com/) is a fast MacOS database management tool for working with MySQL. This SQL management tool helpful for interacting with your database by easily to adding new databases, new tables, and new rows.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/SQL-NoSQL-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
