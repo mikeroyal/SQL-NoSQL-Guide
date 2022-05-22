@@ -33,6 +33,7 @@
 # SQL/NoSQL Learning Resources
 
 ## SQL Learning Resources
+[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents)
 
 [SQL](https://en.wikipedia.org/wiki/SQL) is a standard language for storing, manipulating and retrieving data in relational databases.
 
@@ -111,6 +112,7 @@
 
 
 ## NoSQL Learning Resources
+[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents)
 
 [NoSQL](https://www.ibm.com/cloud/blog/sql-vs-nosql) is a database that is interchangeably referred to as "nonrelational, or "non-SQL" to highlight that the database can handle huge volumes of rapidly changing, unstructured data in different ways than a relational (SQL-based) database with rows and tables.
 
