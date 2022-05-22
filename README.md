@@ -17,27 +17,22 @@
 
 1. [SQL/NoSQL Learning Resources](https://github.com/mikeroyal/SQL-NoSQL-Guide#sqlnosql-learning-resources)
 
-  - [SQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#sql-learning-resources)
-  - [NoSQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#nosql-learning-resources)
-  - [Distributed Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#distributed-systems-learning-resources)
-  - [Parallel Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#parallel-systems-learning-resources)
+   - [SQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#sql-learning-resources)
+   - [NoSQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#nosql-learning-resources)
+   - [Distributed Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#distributed-systems-learning-resources)
+   - [Parallel Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#parallel-systems-learning-resources)
 
 2. [ SQL/NoSQL Tools and Databases](https://github.com/mikeroyal/SQL-NoSQL-Guide#sqlnosql-tools-and-databases)
 
-  - [SQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#sql-tools)
-  - [NoSQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#nosql-tools)
-  - [Distributed Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#distributed-systems-tools)
-  - [Parallel Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#parallel-systems-tools)
+   - [SQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#sql-tools)
+   - [NoSQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#nosql-tools)
+   - [Distributed Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#distributed-systems-tools)
+   - [Parallel Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#parallel-systems-tools)
   
 
 # SQL/NoSQL Learning Resources
 
 ## SQL Learning Resources
-
-<p align="center">
- <img src="">
-  <br />
-</p>
 
 [SQL](https://en.wikipedia.org/wiki/SQL) is a standard language for storing, manipulating and retrieving data in relational databases.
 
@@ -49,9 +44,18 @@
 
 [Decision Support System (DSS)](https://corporatefinanceinstitute.com/resources/knowledge/other/decision-support-system-dss/) is a information system used to help in decision-making activities in an organization or a business by analyzing large datasets. It compiles the information that can be used to solve problems and make better decisions.
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/169710324-bd872e03-f7ac-4d8b-9fd5-c4cf0461270a.png">
+  <br />
+</p>
+
 ### SQL Courses & Tutorials
 
-- [Learn & Practice SQL Courses | LearnSQL](https://learnsql.com/)
+ - [Learn & Practice SQL Courses | LearnSQL](https://learnsql.com/)
+
+ - [SQL-Books(PDFs)](https://github.com/manjunath5496/SQL-Books)
+ 
+ - [Database Books(PDFs)](https://github.com/miollek/Free-Database-Books)
 
  - [Intro to SQL: Querying and managing data | Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/)
  
@@ -60,6 +64,8 @@
  - [Top PostgreSQL Courses Online | Udemy](https://www.udemy.com/topic/postgresql/)
  
  - [PostgreSQL: Tutorials & Other Resources](https://www.postgresql.org/docs/online-resources/)
+ 
+ - [PostgreSQL Administration/development tools](https://www.postgresql.org/download/products/1-administrationdevelopment-tools/)
  
  - [MySQL Training from Oracle University](https://www.mysql.com/training/)
  
@@ -106,12 +112,12 @@
 
 ## NoSQL Learning Resources
 
+[NoSQL](https://www.ibm.com/cloud/blog/sql-vs-nosql) is a database that is interchangeably referred to as "nonrelational, or "non-SQL" to highlight that the database can handle huge volumes of rapidly changing, unstructured data in different ways than a relational (SQL-based) database with rows and tables.
+
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/169710326-653455f6-8bf0-49bf-a338-d1907fcdcc2d.png">
   <br />
 </p>
-
-[NoSQL](https://www.ibm.com/cloud/blog/sql-vs-nosql) is a database that is interchangeably referred to as "nonrelational, or "non-SQL" to highlight that the database can handle huge volumes of rapidly changing, unstructured data in different ways than a relational (SQL-based) database with rows and tables.
 
 ### Courses & Tutorials
 
@@ -144,14 +150,6 @@
 ## Distributed Systems Learning Resources
 [Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents)
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/134823766-c1680f2b-f482-4f50-b549-35803642c24d.png">
-  <br />
-</p>
-
-**Architecture of a Distributed Database System. Source: [ResearchGate](https://www.researchgate.net/figure/Architecture-of-a-Distributed-Database-System_fig1_330485258)**
-
-
 [Distributed System](https://www.splunk.com/en_us/data-insider/what-are-distributed-systems.html) is a computing environment in which various components are spread across multiple computers (or other computing devices) on a network. These devices split up the work, coordinating their efforts to complete the job more efficiently than if a single device had been responsible for the task. There are four different basic architecture models:
 
   1. [Client-server](https://en.wikipedia.org/wiki/Client%E2%80%93server_model) is a system where clients contact the server for data, then format it and display it to the end-user. The end-user can also make a change from the client-side and commit it back to the server to make it permanent.
@@ -161,6 +159,14 @@
   3. [n-tier](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier) is a system that does separate processing into discrete tiers that are distributed between the client and the server. When you develop applications that access data, you should have a clear separation between the various tiers that make up the application.
 
   4. [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) is a system where are no additional machines used to provide services or manage resources. Responsibilities are uniformly distributed among machines in the system, known as peers, which can serve as either client or server.
+  
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/134823766-c1680f2b-f482-4f50-b549-35803642c24d.png">
+  <br />
+</p>
+
+**Architecture of a Distributed Database System. Source: [ResearchGate](https://www.researchgate.net/figure/Architecture-of-a-Distributed-Database-System_fig1_330485258)**
+
   
  ### Distributed Systems Courses & Tutorials
 
@@ -182,16 +188,16 @@
 
   -[Distribution System Certificate Program Online | ASU](https://ce.arizona.edu/classes/distribution-system-certificate)
 
-## Parallel Computing Learning Resources
+## Parallel Systems Learning Resources
 [Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents)
 
+
+[Parallel Computing](https://en.wikipedia.org/wiki/Parallel_computing) is a computing environment in which two or more processors (cores, computers) work simultaneously to solve a single problem. Where large problems can often be divided into smaller ones, which can then be solved at the same time. There are several different forms of parallel computing: [bit-level](https://en.wikipedia.org/wiki/Bit-level_parallelism), [instruction-level](https://en.wikipedia.org/wiki/Instruction-level_parallelism), [data](https://en.wikipedia.org/wiki/Data_parallelism), and [task parallelism](https://en.wikipedia.org/wiki/Task_parallelism).
+
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/169710332-4ec52bee-e883-48c0-a831-06c121ece298.png">
   <br />
 </p>
-
-
-[Parallel Computing](https://en.wikipedia.org/wiki/Parallel_computing) is a computing environment in which two or more processors (cores, computers) work simultaneously to solve a single problem. Large problems can often be divided into smaller ones, which can then be solved at the same time. There are several different forms of parallel computing: [bit-level](https://en.wikipedia.org/wiki/Bit-level_parallelism), [instruction-level](https://en.wikipedia.org/wiki/Instruction-level_parallelism), [data](https://en.wikipedia.org/wiki/Data_parallelism), and [task parallelism](https://en.wikipedia.org/wiki/Task_parallelism).
 
 ### Parallel Systems Courses & Tutorials
 
@@ -217,7 +223,7 @@
 
  - [Multithreaded Parallelism: Languages and Compilers | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/)
 
- -[Parallel Computing with CUDA | Pluralsight](https://www.pluralsight.com/courses/parallel-computing-cuda)
+ - [Parallel Computing with CUDA | Pluralsight](https://www.pluralsight.com/courses/parallel-computing-cuda)
 
  - [HPC Architecture and System Design | Intel](https://www.intel.com/content/www/us/en/high-performance-computing/hpc-architecture.html)
 
@@ -255,6 +261,18 @@
 [PostgreSQL](https://www.postgresql.org/) is a powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
 
 [PostgREST](https://github.com/PostgREST/postgrest) is a tool that serves a fully RESTful API from any existing PostgreSQL database. It provides a cleaner, more standards-compliant, faster API than you are likely to write from scratch.
+
+[OmniDB](https://github.com/OmniDB/OmniDB) is a web-based tool for database management.
+
+[Navicat](https://www.navicat.com/) is a series of graphical database management and development software produced by CyberTech Ltd. for MySQL, MariaDB, MongoDB, Oracle, SQLite, PostgreSQL and Microsoft SQL Server. 
+
+[TablePlus](https://tableplus.com/) is a modern, native tool with elegant UI that allows you to simultaneously manage multiple databases such as MySQL, PostgreSQL, SQLite, Microsoft SQL Server and more.
+
+[HeidiSQL](https://www.heidisql.com/) is free software, and has the aim to be easy to learn. It lets you see and edit data and structures from computers running one of the database systems MariaDB, MySQL, Microsoft SQL, PostgreSQL and SQLite. 
+ 
+[Beekeeper Studio](https://www.beekeeperstudio.io/) is a cross-platform SQL editor and database manager(MySQL, Postgres, SQLite, SQL Server, and more.) available for Linux, Mac, and Windows. 
+ 
+[UI Bakery](https://uibakery.io/) is a web-based low-code internal tool builder. It can visualize the data pulled from PostgreSQL, MongoDB, MySQL, MicrosoftSQL, Redis.
 
 [IBM DB2](https://www.ibm.com/analytics/db2) is a collection of hybrid data management products offering a complete suite of AI-empowered capabilities designed to help you manage both structured and unstructured data on premises as well as in private and public cloud environments. Db2 is built on an intelligent common SQL engine designed for scalability and flexibility.
 
