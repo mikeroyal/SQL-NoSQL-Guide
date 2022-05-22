@@ -13,46 +13,214 @@
   <br />
 </p>
 
+# Table of Contents
+
+1. [SQL/NoSQL Learning Resources](https://github.com/mikeroyal/SQL-NoSQL-Guide#sqlnosql-learning-resources)
+
+  - [SQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#sql-learning-resources)
+  - [NoSQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#nosql-learning-resources)
+  - [Distributed Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#distributed-systems-learning-resources)
+  - [Parallel Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#parallel-systems-learning-resources)
+
+2. [ SQL/NoSQL Tools and Databases](https://github.com/mikeroyal/SQL-NoSQL-Guide#sqlnosql-tools-and-databases)
+
+  - [SQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#sql-tools)
+  - [NoSQL](https://github.com/mikeroyal/SQL-NoSQL-Guide#nosql-tools)
+  - [Distributed Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#distributed-systems-tools)
+  - [Parallel Systems](https://github.com/mikeroyal/SQL-NoSQL-Guide#parallel-systems-tools)
+  
 
 # SQL/NoSQL Learning Resources
 
-[SQL](https://en.wikipedia.org/wiki/SQL) is a standard language for storing, manipulating and retrieving data in relational databases.
+## SQL Learning Resources
 
-[NoSQL](https://www.ibm.com/cloud/blog/sql-vs-nosql) is a database that is interchangeably referred to as "nonrelational, or "non-SQL" to highlight that the database can handle huge volumes of rapidly changing, unstructured data in different ways than a relational (SQL-based) database with rows and tables.
+<p align="center">
+ <img src="">
+  <br />
+</p>
+
+[SQL](https://en.wikipedia.org/wiki/SQL) is a standard language for storing, manipulating and retrieving data in relational databases.
 
 [Transact-SQL(T-SQL)](https://docs.microsoft.com/en-us/sql/t-sql/language-reference) is a Microsoft extension of SQL with all of the tools and applications communicating to a SQL database by sending T-SQL commands.
 
-[Introduction to Transact-SQL](https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/)
+[PL/SQL](https://www.oracle.com/database/technologies/appdev/plsql.html) is a procedural language designed specifically to embrace SQL statements within its syntax. PL/SQL program units are compiled by the Oracle Database server and stored inside the database. 
 
-[SQL Tutorial by W3Schools](https://www.w3schools.com/sql/)
+[Online Analytical Processing (OLAP)](https://support.microsoft.com/en-us/office/overview-of-online-analytical-processing-olap-15d2cdde-f70b-4277-b009-ed732b75fdd6) is a technology that is used to organize large business databases and support business intelligence. 
 
-[Learn SQL Skills Online from Coursera](https://www.coursera.org/courses?query=sql)
+[Decision Support System (DSS)](https://corporatefinanceinstitute.com/resources/knowledge/other/decision-support-system-dss/) is a information system used to help in decision-making activities in an organization or a business by analyzing large datasets. It compiles the information that can be used to solve problems and make better decisions.
 
-[SQL Courses Online from Udemy](https://www.udemy.com/topic/sql/) 
+### SQL Courses & Tutorials
 
-[SQL Online Training Courses from LinkedIn Learning](https://www.linkedin.com/learning/topics/sql)
+- [Learn & Practice SQL Courses | LearnSQL](https://learnsql.com/)
 
-[Learn SQL For Free from Codecademy](https://www.codecademy.com/learn/learn-sql)
+ - [Intro to SQL: Querying and managing data | Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/)
+ 
+ - [Top PostgreSQL Courses | Coursera](https://www.coursera.org/courses?query=postgresql)
+ 
+ - [Top PostgreSQL Courses Online | Udemy](https://www.udemy.com/topic/postgresql/)
+ 
+ - [PostgreSQL: Tutorials & Other Resources](https://www.postgresql.org/docs/online-resources/)
+ 
+ - [MySQL Training from Oracle University](https://www.mysql.com/training/)
+ 
+ - [Top MySQL Courses | Coursera](https://www.coursera.org/courses?query=mysql)
+ 
+ - [Top Free MySQL Courses & Tutorials Online | Udemy](https://www.udemy.com/topic/mysql/free/)
+ 
+ - [MySQL Certifications](https://www.mysql.com/certification/)
+ 
+ - [Top Microsoft SQL Courses Online | Udemy](https://www.udemy.com/topic/microsoft-sql/)
+ 
+ - [Microsoft SQL Crash Course for Absolute Beginners | Udemy](https://www.udemy.com/course/complete-microsoft-sql-server-beginner-expert/)
+ 
+ - [Introduction to Transact-SQL | Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/introduction-to-transact-sql/)
+ 
+ - [Get Started Querying with Transact-SQL | Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/get-started-querying-with-transact-sql/)
+ 
+ - [Azure SQL fundamentals | Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/azure-sql-fundamentals/)
+ 
+ - [Educational Microsoft Azure SQL resources](https://docs.microsoft.com/en-us/sql/sql-server/educational-sql-resources?view=sql-server-ver15)
 
-[GitLab's SQL Style Guide](https://about.gitlab.com/handbook/business-ops/data-team/platform/sql-style-guide/)
+ - [SQL Tutorial by W3Schools](https://www.w3schools.com/sql/)
 
-[OracleDB SQL Style Guide Basics](https://oracle.readthedocs.io/en/latest/sql/basics/style-guide.html)
+ - [Learn SQL Skills Online from Coursera](https://www.coursera.org/courses?query=sql)
 
-[Tableau CRM: BI Software and Tools](https://www.salesforce.com/products/crm-analytics/overview/)
+ - [SQL Courses Online from Udemy](https://www.udemy.com/topic/sql/) 
 
-[Databases on AWS](https://aws.amazon.com/products/databases/)
+ - [SQL Online Training Courses from LinkedIn Learning](https://www.linkedin.com/learning/topics/sql)
 
-[Best Practices and Recommendations for SQL Server Clustering in AWS EC2.](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/aws-sql-clustering.html)
+ - [Learn SQL For Free from Codecademy](https://www.codecademy.com/learn/learn-sql)
 
-[Connecting from Google Kubernetes Engine to a Cloud SQL instance.](https://cloud.google.com/sql/docs/mysql/connect-kubernetes-engine)
+ - [GitLab's SQL Style Guide](https://about.gitlab.com/handbook/business-ops/data-team/platform/sql-style-guide/)
 
-[Educational Microsoft Azure SQL resources](https://docs.microsoft.com/en-us/sql/sql-server/educational-sql-resources?view=sql-server-ver15)
+ - [OracleDB SQL Style Guide Basics](https://oracle.readthedocs.io/en/latest/sql/basics/style-guide.html)
+ 
+ - [Databases on AWS](https://aws.amazon.com/products/databases/)
 
-[MySQL Certifications](https://www.mysql.com/certification/)
+ - [Best Practices and Recommendations for SQL Server Clustering in AWS EC2.](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/aws-sql-clustering.html)
 
-[SQL vs. NoSQL Databases: What's the Difference?](https://www.ibm.com/cloud/blog/sql-vs-nosql)
+ - [Connecting from Google Kubernetes Engine to a Cloud SQL instance.](https://cloud.google.com/sql/docs/mysql/connect-kubernetes-engine)
 
-[What is NoSQL?](https://aws.amazon.com/nosql/)
+ - [Tableau CRM: BI Software and Tools](https://www.salesforce.com/products/crm-analytics/overview/)
+
+
+## NoSQL Learning Resources
+
+<p align="center">
+ <img src="">
+  <br />
+</p>
+
+[NoSQL](https://www.ibm.com/cloud/blog/sql-vs-nosql) is a database that is interchangeably referred to as "nonrelational, or "non-SQL" to highlight that the database can handle huge volumes of rapidly changing, unstructured data in different ways than a relational (SQL-based) database with rows and tables.
+
+### Courses & Tutorials
+
+ - [SQL vs. NoSQL Databases: What's the Difference?](https://www.ibm.com/cloud/blog/sql-vs-nosql)
+
+ - [What is NoSQL?](https://aws.amazon.com/nosql/)
+ 
+ - [NoSQL Database Cloud Training and Certification | Oracle University](https://education.oracle.com/en/learning-paths/product_694)
+ 
+ - [Getting Started with Amazon DynamoDB](https://aws.amazon.com/dynamodb/getting-started/)
+  
+ - [Amazon DynamoDB for Serverless Architectures Online Course | AWS Training & Certification](https://www.amazon.com/DynamoDB-Serverless-Architectures-Training-Certification/dp/B09HSLS63G)
+  
+ - [Getting Started with Amazon SimpleDB](https://aws.amazon.com/simpledb/getting-started/)
+ 
+ - [Scylla University | NoSQL Database Courses](https://university.scylladb.com/)
+ 
+ - [Top Nosql Courses | Coursera](https://www.coursera.org/courses?query=nosql)
+ 
+ - [Learn NoSQL with Online Courses | edX](https://www.edx.org/learn/nosql)
+ 
+ - [NoSQL Database Basics | edX](https://www.edx.org/course/nosql-basics)
+ 
+ - [Top NoSQL Courses Online | Udemy](https://www.udemy.com/topic/nosql/)
+ 
+ - [NoSQl Lecture(PDF) | University of Washington](https://courses.cs.washington.edu/courses/csep544/11au/lectures/lecture10-nosql.pdf)
+ 
+ - [NoSQL Databases Course | FreeCodeCamp](https://www.freecodecamp.org/news/learn-nosql-in-3-hours/)
+
+## Distributed Systems Learning Resources
+[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/134823766-c1680f2b-f482-4f50-b549-35803642c24d.png">
+  <br />
+</p>
+
+**Architecture of a Distributed Database System. Source: [ResearchGate](https://www.researchgate.net/figure/Architecture-of-a-Distributed-Database-System_fig1_330485258)**
+
+
+[Distributed System](https://www.splunk.com/en_us/data-insider/what-are-distributed-systems.html) is a computing environment in which various components are spread across multiple computers (or other computing devices) on a network. These devices split up the work, coordinating their efforts to complete the job more efficiently than if a single device had been responsible for the task. There are four different basic architecture models:
+
+  1. [Client-server](https://en.wikipedia.org/wiki/Client%E2%80%93server_model) is a system where clients contact the server for data, then format it and display it to the end-user. The end-user can also make a change from the client-side and commit it back to the server to make it permanent.
+
+  2. [Three-tier](https://www.ibm.com/cloud/learn/three-tier-architecture) is a software application architecture that organizes applications into three logical and physical computing tiers: the presentation tier, or user interface; the application tier, where data is processed; and the data tier, where the data associated with the application is stored and managed.
+
+  3. [n-tier](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier) is a system that does separate processing into discrete tiers that are distributed between the client and the server. When you develop applications that access data, you should have a clear separation between the various tiers that make up the application.
+
+  4. [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) is a system where are no additional machines used to provide services or manage resources. Responsibilities are uniformly distributed among machines in the system, known as peers, which can serve as either client or server.
+  
+ ### Distributed Systems Courses & Tutorials
+
+  - [Top Distributed Systems Courses Online | Coursera](https://www.coursera.org/courses?query=distributed%20systems)
+
+  - [Distributed Systems Online | Stanford Online](https://online.stanford.edu/courses/cs244b-distributed-systems)
+
+  - [Top Distributed Computing Courses Online | Udemy](https://www.udemy.com/topic/distributed-computing/)
+
+  - [Distributed Systems & Cloud Computing with Java | Udemy](https://www.udemy.com/course/distributed-systems-cloud-computing-with-java/)
+
+  - [Introduction to Distributed Systems | University of Washington](https://courses.cs.washington.edu/courses/cse490h/07wi/readings/IntroductionToDistributedSystems.pdf)
+
+  - [Distributed Systems - University of Wisconsin-Madison](https://pages.cs.wisc.edu/~remzi/OSTEP/dist-intro.pdf)
+
+  - [A Thorough Introduction to Distributed Systems | FreeCodeCamp](https://www.freecodecamp.org/news/a-thorough-introduction-to-distributed-systems-3b91562c9b3c/)
+
+  - [Introduction to Distributed Systems | UPenn](https://www.cis.upenn.edu/~lee/03cse380/lectures/ln19-ds-v3.4pp.pdf)
+
+  -[Distribution System Certificate Program Online | ASU](https://ce.arizona.edu/classes/distribution-system-certificate)
+
+## Parallel Computing Learning Resources
+[Back to the Top](https://github.com/mikeroyal/SQL-NoSQL-Guide#table-of-contents)
+
+<p align="center">
+ <img src="">
+  <br />
+</p>
+
+
+[Parallel Computing](https://en.wikipedia.org/wiki/Parallel_computing) is a computing environment in which two or more processors (cores, computers) work simultaneously to solve a single problem. Large problems can often be divided into smaller ones, which can then be solved at the same time. There are several different forms of parallel computing: [bit-level](https://en.wikipedia.org/wiki/Bit-level_parallelism), [instruction-level](https://en.wikipedia.org/wiki/Instruction-level_parallelism), [data](https://en.wikipedia.org/wiki/Data_parallelism), and [task parallelism](https://en.wikipedia.org/wiki/Task_parallelism).
+
+### Parallel Systems Courses & Tutorials
+
+ - [Accelerated Computing - Training | NVIDIA Developer](https://developer.nvidia.com/accelerated-computing-training)
+
+ - [Fundamentals of Accelerated Computing with CUDA Python Course | NVIDIA](https://courses.nvidia.com/courses/course-v1:DLI+C-AC-02+V1/about)
+
+ - [Top Parallel Computing Courses Online | Coursera](https://www.coursera.org/courses?languages=en&query=parallel%20computing)
+
+ - [Top Parallel Computing Courses Online | Udemy](https://www.udemy.com/courses/search/?q=parallel+computation&src=sac&kw=parallel+comput)
+
+ - [Scientific Computing Masterclass: Parallel and Distributed](https://www.udemy.com/course/learn-to-use-hpc-systems-and-supercomputers/)
+
+ - [Learn Parallel Computing in Python | Udemy](https://www.udemy.com/course/parallel-computing-in-python/)
+
+ - [GPU computing in Vulkan | Udemy](https://www.udemy.com/course/vulkan-gpu-computing/)
+
+ - [High Performance Computing Courses | Udacity ](https://www.udacity.com/course/high-performance-computing--ud281)
+
+ - [Parallel Computing Courses | Stanford Online](https://online.stanford.edu/courses/cs149-parallel-computing)
+
+ - [Parallel Computing | MIT OpenCourseWare](https://ocw.mit.edu/courses/mathematics/18-337j-parallel-computing-fall-2011/)
+
+ - [Multithreaded Parallelism: Languages and Compilers | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-827-multithreaded-parallelism-languages-and-compilers-fall-2002/)
+
+ -[Parallel Computing with CUDA | Pluralsight](https://www.pluralsight.com/courses/parallel-computing-cuda)
+
+ - [HPC Architecture and System Design | Intel](https://www.intel.com/content/www/us/en/high-performance-computing/hpc-architecture.html)
+
 
 # SQL/NoSQL Tools and Databases
 
