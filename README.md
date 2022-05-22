@@ -440,9 +440,6 @@
   <br />
 </p>
 
-## Parallel System Tools
-[Back to the Top](https://github.com/mikeroyal/-Guide#table-of-contents)
-
 [OpenMP](https://www.openmp.org/) is an API that supports multi-platform shared-memory parallel programming in C/C++ and Fortran. The OpenMP API defines a portable, scalable model with a simple and flexible interface for developing parallel applications on platforms from the desktop to the supercomputer.
 
 [CUDA®](https://developer.nvidia.com/cuda-zone) is a parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs). With CUDA, developers are able to dramatically speed up computing applications by harnessing the power of GPUs.
