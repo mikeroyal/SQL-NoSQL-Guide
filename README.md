@@ -63,6 +63,8 @@
  - [Top PostgreSQL Courses | Coursera](https://www.coursera.org/courses?query=postgresql)
  
  - [Top PostgreSQL Courses Online | Udemy](https://www.udemy.com/topic/postgresql/)
+
+ - [SQL Tutorial | Learn SQL in Detail - Scaler Topics](https://www.scaler.com/topics/sql/)
  
  - [PostgreSQL: Tutorials & Other Resources](https://www.postgresql.org/docs/online-resources/)
  
